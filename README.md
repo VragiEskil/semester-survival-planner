@@ -37,6 +37,10 @@ Instead of manual micro-prompting, the WorkBuddy agent executes an autonomous mu
 <img width="1655" height="904" alt="Screenshot 2026-10-11 072512" src="https://github.com/user-attachments/assets/9d55335b-340b-43a0-9ab5-e27e66fd556b" />
 <img width="1654" height="947" alt="Screenshot 2026-10-11 072538" src="https://github.com/user-attachments/assets/129c318c-8849-4d75-b6dd-9d7204f58e7d" />
 
+## 📊 Presentation Deck
+* 📄 [View Presentation Deck on Google Drive](https://drive.google.com/file/d/1d2-HyRGQpENu2Mk60_izK5VzSkJR-sON/view?usp=sharing)
+
+
 
 
 
